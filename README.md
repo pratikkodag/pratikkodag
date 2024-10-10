@@ -3,7 +3,7 @@
 
 👨‍💻 About Me
 
-I’m Pratik Kodag, a passionate **Data Science** enthusiast with expertise in **machine learning, data analytics, and NLP. Proficient in Python, C++, and data tools like Pandas and SQL**, I thrive on applying data-driven approaches to solve real-world problems.
+I’m Pratik Kodag, a passionate **Data Science** enthusiast with expertise in **machine learning, Deep learning,data analytics, and NLP. Proficient in Python, C++, and data tools like Pandas and SQL**, I thrive on applying data-driven approaches to solve real-world problems.
 
 💡 With hands-on experience in building **AI chatbots and ML models**, I’m focused on leveraging data to drive innovation and empower decision-making for business growth.
 
