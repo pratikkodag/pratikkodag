@@ -13,7 +13,7 @@ I’m Pratik Kodag, a passionate **Data Science** enthusiast with expertise in *
 
 <p align="left"> <a href="https://twitter.com/kodag_pratik" target="blank"><img src="https://img.shields.io/twitter/follow/kodag_pratik?logo=twitter&style=for-the-badge" alt="kodag_pratik" /></a> </p>
 
--    Project 1:- []()
+- 💡   Project 1:- [Real Time Stock Price Prediction Using Time Series Forcasting](https://github.com/pratikkodag/stock_price_prediction)
 
 - 🔭 Project 2:- [Email Spam Classifier](https://github.com/pratikkodag/email_spam_classifier)
 
