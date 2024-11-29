@@ -13,11 +13,13 @@ I’m Pratik Kodag, a passionate **Data Science** enthusiast with expertise in *
 
 <p align="left"> <a href="https://twitter.com/kodag_pratik" target="blank"><img src="https://img.shields.io/twitter/follow/kodag_pratik?logo=twitter&style=for-the-badge" alt="kodag_pratik" /></a> </p>
 
-- 🔭 Project 1:- [Email Spam Classifier](https://github.com/pratikkodag/email_spam_classifier)
+-    Project 1:- []()
 
-- 👯 Project 2:- [AI chatbot](https://github.com/pratikkodag/chatbot)
+- 🔭 Project 2:- [Email Spam Classifier](https://github.com/pratikkodag/email_spam_classifier)
 
-- 🤝Project 3:- [movie recommender system](https://github.com/pratikkodag/movie_recommender_system)
+- 👯 Project 3:- [AI chatbot](https://github.com/pratikkodag/chatbot)
+
+- 🤝Project 4:- [movie recommender system](https://github.com/pratikkodag/movie_recommender_system)
 
 - 📫 How to reach me **kodagpratik1@gmail.com**
 
