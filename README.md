@@ -15,11 +15,11 @@ I’m Pratik Kodag, a passionate **Data Science** enthusiast with expertise in *
 
 - 💡   Project 1:- [Real Time Stock Price Prediction Using Time Series Forcasting](https://github.com/pratikkodag/stock_price_prediction)
 
-- 🔭 Project 2:- [Email Spam Classifier](https://github.com/pratikkodag/email_spam_classifier)
+- 🔭 Project 2:- [DataDigonastic](https://github.com/pratikkodag/email_spam_classifier)
 
 - 👯 Project 3:- [AI chatbot](https://github.com/pratikkodag/chatbot)
 
-- 🤝Project 4:- [movie recommender system](https://github.com/pratikkodag/movie_recommender_system)
+- 🤝Project 4:- [text summarizer](https://github.com/pratikkodag/movie_recommender_system)
 
 - 📫 How to reach me **kodagpratik1@gmail.com**
 
