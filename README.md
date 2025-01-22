@@ -19,7 +19,7 @@ I’m Pratik Kodag, a passionate **Data Science** enthusiast with expertise in *
 
 - 👯 Project 3:- [AI chatbot](https://github.com/pratikkodag/chatbot)
 
-- 🤝Project 4:- [text summarizer](https://github.com/pratikkodag/movie_recommender_system)
+- 🤝Project 4:- [text summarizer](https://github.com/pratikkodag/text_summarization)
 
 - 📫 How to reach me **kodagpratik1@gmail.com**
 
