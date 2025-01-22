@@ -15,7 +15,7 @@ I’m Pratik Kodag, a passionate **Data Science** enthusiast with expertise in *
 
 - 💡   Project 1:- [Real Time Stock Price Prediction Using Time Series Forcasting](https://github.com/pratikkodag/stock_price_prediction)
 
-- 🔭 Project 2:- [DataDigonastic](https://github.com/pratikkodag/email_spam_classifier)
+- 🔭 Project 2:- [DataDigonastic](https://github.com/pratikkodag/DataDiagnostics)
 
 - 👯 Project 3:- [AI chatbot](https://github.com/pratikkodag/chatbot)
 
